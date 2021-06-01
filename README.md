@@ -1,6 +1,6 @@
 # Hi there, I'm [Tor Cox][LinkedIn] 👋
 
-##Occupation
+## Occupation
 Computer Science Student at [University of Notre Dame][nd] <br />
 
 ## About:
@@ -18,7 +18,8 @@ Computer Science Student at [University of Notre Dame][nd] <br />
 - React (1 year)
 - Flask (1 year)
 <br />
-## Current Playlist [spotify] <br />
+
+## Current Playlist [spotify]
 
 ## Connect with me:
 [<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
