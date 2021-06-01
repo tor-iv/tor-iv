@@ -17,8 +17,8 @@ Computer Science Student at [University of Notre Dame][nd] <br />
 ### Frameworks:
 - React (1 year)
 - Flask (1 year)
-
-## Current Playlist [spotify]
+<br />
+## Current Playlist [spotify] <br />
 
 ## Connect with me:
 [<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
