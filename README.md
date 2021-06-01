@@ -3,18 +3,18 @@
 ##Occupation
 Computer Science Student at [University of Notre Dame][nd] <br />
 
-##About
+## About:
 - Currently Learning: React
 - 2021 Goals: 
 - Fun Fact: I love to do pottery in my freetime
 
-##Languages
+## Languages:
 - Python (2 years)
 - C (2 years)
 - C++ (1 year)
 - Matlab (1 year)
 - HTML/CSS (1 year)
-### Frameworks
+### Frameworks:
 - React (1 year)
 - Flask (1 year)
 
@@ -23,12 +23,6 @@ Computer Science Student at [University of Notre Dame][nd] <br />
 ## Connect with me:
 [<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
 <br />
----
-
-<!--
-**tor-iv/tor-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ---
 [nd]: https://www.nd.edu/
 [linkedin]: https://linkedin.com/in/tor-iv
