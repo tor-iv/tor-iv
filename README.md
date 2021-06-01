@@ -19,7 +19,8 @@
 - Flask (1 year)
 <br />
 
-## Current Playlist [spotify]
+## Current Playlist:
+[spotify]
 
 ## Connect with me:  
 [<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
