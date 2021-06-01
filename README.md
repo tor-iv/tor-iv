@@ -1,11 +1,11 @@
 # Hi there, I'm [Tor Cox][LinkedIn] 👋
 
-## Occupation
-Computer Science Student at [University of Notre Dame][nd] <br />
+## Occupation:
+- Computer Science Student at [University of Notre Dame][nd] <br />
 
 ## About:
 - Currently Learning: React
-- 2021 Goals: 
+- 2021 Goals: Enjoy Life
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
