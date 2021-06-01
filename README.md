@@ -21,7 +21,8 @@ Computer Science Student at [University of Notre Dame][nd] <br />
 
 ## Current Playlist [spotify]
 
-## Connect with me:  [<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
+## Connect with me:  
+[<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
 <br />
 ---
 [nd]: https://www.nd.edu/
