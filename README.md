@@ -20,7 +20,7 @@
 <br />
 
 ## Current Playlist:
-[spotify]
+[Spotify]
 
 ## Connect with me:  
 [<img align="left" alt="Tor Cox | LinkedIn" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" />][linkedin]
@@ -28,5 +28,5 @@
 ---
 [nd]: https://www.nd.edu/
 [linkedin]: https://linkedin.com/in/tor-iv
-[spotify]: https://open.spotify.com/playlist/5I5LITTuZAJtfH1IfR3qfP?si=db422729f8d1438b
+[Spotify]: https://open.spotify.com/playlist/5I5LITTuZAJtfH1IfR3qfP?si=db422729f8d1438b
 
