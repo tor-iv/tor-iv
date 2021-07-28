@@ -5,7 +5,7 @@
 
 ## About:
 - Currently Learning: React
-- 2021 Goals: Enjoy Life
+- 2021 Goals: Make something that makes my life just a little bit easier
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
