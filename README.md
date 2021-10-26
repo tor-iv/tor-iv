@@ -9,14 +9,14 @@
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
-- Python (2 years)
+- Python (3 years)
 - C (2 years)
 - C++ (1 year)
 - Matlab (1 year)
 - HTML/CSS (1 year)
 ### Frameworks:
 - React (1 year)
-- Flask (1 year)
+- Flask (2 year)
 <br />
 
 ## Current Playlist:
