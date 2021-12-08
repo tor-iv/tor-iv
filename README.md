@@ -10,9 +10,9 @@
 
 ## Languages:
 - Python (3 years)
-- C (2 years)
-- C++ (1 year)
-- Matlab (1 year)
+- C (3 years)
+- C++ (2 year)
+- Matlab (3 year)
 - HTML/CSS (1 year)
 ### Frameworks:
 - React (1 year)
