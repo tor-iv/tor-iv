@@ -5,18 +5,24 @@
 
 ## About:
 - Currently Learning: React
-- 2021 Goals: Make something that makes my life just a little bit easier
+- 2022 Goals: Make something that makes my life just a little bit easier
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
-- Python (3 years)
-- C (3 years)
+- Python (4 years)
+- C (4 years)
+- Bash (3 years)
 - C++ (2 year)
-- Matlab (3 year)
+- Matlab (2 year)
 - HTML/CSS (1 year)
+- PostgreSQL (1 year)
 ### Frameworks:
 - React (1 year)
 - Flask (2 year)
+###Technologies
+- AWS EC2, S3, DynamoDB
+- Jira
+- Microsoft Azure
 <br />
 
 ## Current Playlist:
