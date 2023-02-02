@@ -4,8 +4,8 @@
 - Computer Science Student at [University of Notre Dame][nd] <br />
 
 ## About:
-- Currently Learning: React
-- 2022 Goals: Make something that makes my life just a little bit easier
+- Currently Learning: Machine learning
+- 2023 Goals: Make something that makes my life just a little bit easier
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
