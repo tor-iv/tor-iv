@@ -1,28 +1,26 @@
 # Hi there, I'm [Tor Cox][LinkedIn] 👋
 
 ## Occupation:
-- Computer Science Student at [University of Notre Dame][nd] <br />
+- Current Software Engineer @ Bloomberg <br />
 
 ## About:
-- Currently Learning: Machine learning
-- 2023 Goals: Make something that makes my life just a little bit easier
+- Currently Learning: Streaming/Distributed Systems and App developement
+- 2025 Goals: leverage AI tools to build things that make my life easier
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
-- Python (4 years)
-- C (4 years)
-- Bash (3 years)
-- C++ (2 year)
-- Matlab (2 year)
-- HTML/CSS (1 year)
-- PostgreSQL (1 year)
+- Python (6 years)
+- C (6 years)
+- Bash (5 years)
+- C++ (4 year)
 ### Frameworks:
 - React (1 year)
 - Flask (2 year)
 ###Technologies
-- AWS EC2, S3, DynamoDB
-- Jira
-- Microsoft Azure
+- AWS S3, EC2
+- Apache Airflow
+- Kafka
+- RabbitMQ
 <br />
 
 ## Current Playlist:
