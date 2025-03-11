@@ -16,7 +16,7 @@
 ### Frameworks:
 - React (1 year)
 - Flask (2 year)
-###Technologies
+###Technologies:
 - AWS S3, EC2
 - Apache Airflow
 - Kafka
