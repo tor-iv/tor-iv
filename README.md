@@ -4,13 +4,12 @@
 - Current Software Engineer @ Bloomberg <br />
 
 ## About:
-- Currently Learning: Streaming/Distributed Systems and App developement
-- 2025 Goals: leverage AI tools to build things that make my life easier
+- Currently Learning: Ai tools and technologies: ie: V0, vercel, cline, windsurf, cursor, supabase
 - Fun Fact: I love to do pottery in my freetime
 
 ## Languages:
 - Python (6 years)
-- C (6 years)
+- C (4 years)
 - Bash (5 years)
 - C++ (4 year)
 ### Frameworks:
